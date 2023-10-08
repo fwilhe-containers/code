@@ -1,0 +1,57 @@
+[submodule "bubblewrap"]
+	path = bubblewrap
+	url = https://github.com/fwilhe-containers/bubblewrap
+[submodule "cni"]
+	path = cni
+	url = https://github.com/fwilhe-containers/cni
+[submodule "conmon"]
+	path = conmon
+	url = https://github.com/fwilhe-containers/conmon
+[submodule "container-image"]
+	path = container-image
+	url = https://github.com/fwilhe-containers/container-image
+[submodule "containerd"]
+	path = containerd
+	url = https://github.com/fwilhe-containers/containerd
+[submodule "cri-o"]
+	path = cri-o
+	url = https://github.com/fwilhe-containers/cri-o
+[submodule "crun"]
+	path = crun
+	url = https://github.com/fwilhe-containers/crun
+[submodule "ctop"]
+	path = ctop
+	url = https://github.com/fwilhe-containers/ctop
+[submodule "gvisor"]
+	path = gvisor
+	url = https://github.com/fwilhe-containers/gvisor
+[submodule "ignite"]
+	path = ignite
+	url = https://github.com/fwilhe-containers/ignite
+[submodule "incus"]
+	path = incus
+	url = https://github.com/fwilhe-containers/incus
+[submodule "nodejs-container-image-builder"]
+	path = nodejs-container-image-builder
+	url = https://github.com/fwilhe-containers/nodejs-container-image-builder
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/fwilhe-containers/plugins
+[submodule "podman"]
+	path = podman
+	url = https://github.com/fwilhe-containers/podman
+[submodule "Quark"]
+	path = Quark
+	url = https://github.com/fwilhe-containers/Quark
+[submodule "rootlesskit"]
+	path = rootlesskit
+	url = https://github.com/fwilhe-containers/rootlesskit
+[submodule "runc"]
+	path = runc
+	url = https://github.com/fwilhe-containers/runc
+[submodule "skopeo"]
+	path = skopeo
+	url = https://github.com/fwilhe-containers/skopeo
+[submodule "slirp4netns"]
+	path = slirp4netns
+	url = https://github.com/fwilhe-containers/slirp4netns
